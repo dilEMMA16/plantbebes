@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://example.org/"
+baseurl = "https://dilemma16.github.io/plantbebes/"
 languageCode = "en-us"
 title = "Plants"
 theme = "hugrid"
