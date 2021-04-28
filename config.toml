@@ -2,7 +2,7 @@
 baseurl = "https://dilemma16.github.io/plantbebes/"
 languageCode = "en-us"
 title = "Plants"
-theme = "hugrid"
+theme = "hugo-creative-portfolio-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
 
