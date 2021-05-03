@@ -16,30 +16,36 @@ Latin name | other names
 
 #### :sunny:  &nbsp; Sun
 
-</br>
+</br></br>
 
 #### :ocean:  &nbsp; Water
 
-</br>
+</br></br>
 
 #### :seedling:  &nbsp; Soil
 
-</br>
+</br></br>
 
 #### :yum:  &nbsp; Fertilizer
 
-</br>
+</br></br>
 
 #### :droplet: &nbsp; &nbsp; Humidity
 
-</br>
+</br></br>
 
 #### :cake:  &nbsp; Birthday
 
-</br>
+</br></br>
 
 #### :point_up:  &nbsp;&nbsp;&nbsp; Re-pot
 
-</br>
+</br></br>
 
 #### :triumph:  &nbsp; Mature Height
+
+</br></br>
+
+#### :fire:  &nbsp; Temperature
+
+</br></br>
