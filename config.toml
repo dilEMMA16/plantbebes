@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://dilemma16.github.io/plantbebes/"
 languageCode = "en-us"
-title = "Plants"
+title = "Indoor Jungle"
 theme = "hugo-creative-portfolio-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-XXXXXXXX-Y"
@@ -47,13 +47,17 @@ enableEmoji = true
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
-  url = "portfolio/"
+  name = "Bebes"
+  url = "bebes/"
   home = true
 
   [[params.navlinks]]
-  name = "About"
-  url = "about/"
+  name = "Jargon"
+  url = "jargon/"
+
+  [[params.navlinks]]
+  name = "Resources"
+  url = "resources/"
 
   [markup.goldmark.renderer]
     unsafe = true

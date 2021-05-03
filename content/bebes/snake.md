@@ -2,7 +2,7 @@
 image = "img/portfolio/placeholder.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
-title = "Singular plant name"
+title = "Snake"
 draft = false
 weight = 1
 +++
