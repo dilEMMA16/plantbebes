@@ -15,6 +15,8 @@ Aloe vera, aloe barbadensis miller
 > The Aloe Vera can provide your family with a plant that can help treat minor burns and rashes. While the gel found in the leaves of an Aloe Vera is safe for your child’s skin, the “latex” (a thin layer of yellow juice found just below the outer skin of the aloe vera plant’s leaves) can cause indigestion and irritation.
 >
 > Blooms in summer
+>
+>"Aloe" is derived from "alwe," an Old English word for fragrant resin, while "vera" is from the Latin for "true"
 
 
 
@@ -37,7 +39,7 @@ Allow to dry completely between watering, dormant in winter = don’t need to wa
 ---------
 Top third of potting soil to dry out between watering
 
-2-3 weeks in the spring and summer - water even more sparingly during fall and winter (roughly double the amount of time watering in summer)
+2-3 weeks in the spring and 7-10 days in the summer - water even more sparingly during fall and winter (roughly double the amount of time watering in summer)
 
 </br></br>
 
@@ -68,7 +70,7 @@ Terracotta pot or similarly porous material is recommended
 </br></br>
 
 #### :triumph:  &nbsp; Mature Height
-1-2 feet
+2-3 feet
 
 
 </br></br>

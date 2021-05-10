@@ -7,25 +7,34 @@ draft = false
 weight = 1
 +++
 
-*Epipremnum aureum* | Devil’s Ivy, golden pothos
+*Epipremnum aureum* | Devil’s Ivy, golden pothos, Ceylon creeper, hunter's robe, ivy arum, silver vine, Solomon Islands ivy, marble queen, taro vine
 <!--more-->
 
 > reputation of being one of the easiest houseplants to take care of
+>
 >The Pothos is particularly fitting for indoor settings because it is able to filter gaseous toxins like formaldehyde from the air.
 >
 >Its common name, Pothos, comes from the genus is was once classified under: Pothos aureus.
+>
 >SYMPTOM: Wilting plant, dry potting mix
 >CAUSE: Thirsty plant, underwatered
 >
 >SYMPTOM: Yellowing leaves, black stems
 >CAUSE: Overwatered
+>
+>Derived from Greek "epi" (upon) and "premnon" (trunk) referring to how it grows on tree trunks
+>
+>"Aureum" is Latin for "gold"
+>
+>Native habitat is Moorea, a French Polynesian island
 
 
 </br>
 
 #### :sunny:  &nbsp; Sun
 Low-medium
-Bright indirect light best but will tolerate
+Bright indirect light best but will tolerate low light (if not getting enough light, the patterns on the leaves may fade or disappear completely)
+
 
 </br></br>
 
@@ -69,9 +78,13 @@ September 2019 :virgo: - birthday gift from Julia
 #### :triumph:  &nbsp; Mature Height
 In good indoor conditions, you can expect the Golden Pothos to trail to 10 feet long
 
+In the wild, they can grow up to 20m (65.5 feet!) long
+
 </br></br>
 
 #### :fire:  &nbsp; Temperature
 Average home temperature of 65°F-75°F. If you’re comfortable, the Pothos is comfortable.
+
+Can endure extreme temperatures (41-95F)
 
 </br></br>

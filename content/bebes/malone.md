@@ -7,10 +7,14 @@ draft = false
 weight = 1
 +++
 
-*Peperonia argyreia* | Watermelon begonia
+*Peperomia argyreia* | Watermelon begonia, watermelon peperomia
 <!--more-->
 
 > To propagate = trim leaf from bottom of stem → in water
+>
+>Greek "peperi" means "pepper" + Greek "argyros" means "silvery"
+>
+>Native to South America
 
 </br>
 
@@ -67,6 +71,8 @@ This plant likes to be slightly root bound, so it is best to opt for a pot that 
 
 #### :triumph:  &nbsp; Mature Height
 4-8 inches
+
+In the wild = 12in tall
 
 </br></br>
 

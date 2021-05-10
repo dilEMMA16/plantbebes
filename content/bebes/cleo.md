@@ -15,6 +15,8 @@ weight = 1
 >Originates in mexican/coloumbian forests
 >
 >Support with moss sticks = to climb and take up any excess moisture
+>
+>"Deliciosa" refers to the edible fruit it produces
 
 
 </br>
@@ -23,6 +25,8 @@ weight = 1
 Enjoys large amounts of dappled sunlight - never direct sun
 
 Bright indirect sunlight, partially shaded
+
+Too much direct light in warmer months may burn the foliage. Still, set indoor plants outside at least once a year in direct sunlight to encourage lush growth.
 
 </br></br>
 
@@ -42,7 +46,7 @@ If needed or desired, use a balanced liquid fertilizer every few weeks during th
 </br></br>
 
 #### :droplet: &nbsp; &nbsp; Humidity
-Regular misting to increase humidity around leaves
+Regular misting to increase humidity around leaves - at least once a week
 
 Medium
 
@@ -65,13 +69,16 @@ Transplant into a pot a few inches wider and deeper.
 </br></br>
 
 #### :triumph:  &nbsp; Mature Height
-Three feet tall/long, spaced two to three feet wide
+In the wild? 65.5ft
+As a house plant? 10ft
 
-... Outrageous growing potential?
+Leaves will become more perforated as the plant ages
 
 </br></br>
 
 #### :fire:  &nbsp; Temperature
-Temperatures that remain consistently between 65 and 75 degrees Fahrenheit. Too much direct light in warmer months may burn the foliage. Still, set indoor plants outside at least once a year in direct sunlight to encourage lush growth.
+Temperatures that remain consistently between 65 and 75 degrees Fahrenheit.
+
+Can tolerate as low as 54F
 
 </br></br>

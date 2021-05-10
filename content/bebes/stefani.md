@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-*Alocasia - macrorrhiza* | Elephant ear
+*Alocasia macrorrhizos* | Elephant ear, pai
 <!--more-->
 
 >Even with a short growing season in northern climates, these plants can grow rapidly. In the warm summer months, alocasia can produce a new leaf every week. Each new leaf might be twice the size of the previous week. The leaf shapes can vary from slim arrowheads to wide heart-shaped leaves. They have colorful veins and a variety of textures from thick, waxy, slick, and glossy.
@@ -17,6 +17,8 @@ weight = 1
 >Leaves and sap contain a skin irritant
 >
 >Most Alocasia plants can be propagated by clump or rhizome division. Cut off a piece of the underground rhizome and pot it up separately. Keep it warm and moist until new growth begins.
+>
+>The native habitat for these plants ranges from Southeast Asia to Australia
 
 
 </br>
@@ -53,6 +55,8 @@ Like many large-leaved tropical plants, elephant ears are heavy feeders. Apply a
 
 #### :droplet: &nbsp; &nbsp; Humidity
 They require and thrive in very humid environments. To raise the humidity around your plant, place it on a tray filled with pebbles and then add water until it rises to just below the bottom of the pot
+
+Mist leaves often
 
 </br></br>
 

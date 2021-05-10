@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-*Sansevieria trifasciata, dracena trifasciata* | Mother-in-law’s tongue
+*Sansevieria trifasciata, dracena trifasciata* | Mother-in-law’s tongue, devil's tongue, jinn's tongue, bowstring hemp, snake plant, snake tongue
 <!--more-->
 
 >Can break through planters
@@ -15,6 +15,14 @@ weight = 1
 >Good for toxins
 >
 >Tolerates low light and low water
+>
+>The genus is named for Raimondo di Sangro, the 18th-centruy prince of San Severa, Italy, and a scholar.
+>
+>The species name comes from the Latin "tres" meaning "three" and "fascis" meaning "bundle" = referring to the three bands of color on the leaves
+>
+>Native to Nigeria
+>
+>NASA Clean Air Study found that it is capable of removing toxins (such as formaldehyde, xylene and toluene using the Crassulacean Acid Metabolism (CAM) process)
 
 </br>
 
@@ -26,9 +34,13 @@ will do best in moderate to bright indirect light. However, they will do fine in
 </br></br>
 
 #### :ocean:  &nbsp; Water
-Bright, indirect light
+Water weekly during summer and reduce the frequency in the winter - it can go weeks without watering and still survive (might look dehydrated and withered but will still bounce back after a good watering)
 
-will do best in moderate to bright indirect light. However, they will do fine in low light areas and can also withstand full sun.
+Fully dry out in between
+
+Low water
+
+Avoid water touching leaves = can pool and cause rot
 
 </br></br>
 
@@ -63,5 +75,7 @@ This plant does not require any extra humidity.
 
 #### :fire:  &nbsp; Temperature
 Conditions ranging from 55-85 degrees are fine for the Sansevieria Moonshine, however, they prefer warmer temperatures.
+
+can tolerate extreme temps 41F-80F
 
 </br></br>

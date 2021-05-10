@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-*Piliea peperomioides* | Chinese money plant, pancake plant
+*Pilea peperomioides* | Chinese money plant, pancake plant, UFO plant, missionary plant
 <!--more-->
 
 > Can be completely self-propagating with pups at base
@@ -15,6 +15,11 @@ weight = 1
 > Ensure doesn’t sit near heating vent in winter - may drop its leaves
 >
 > If you notice white spots on your Pilea, they are most likely caused by salts and chemicals in your water. If you do not have a filtration system, leaving the tap water in an open container overnight before watering can help remove some of the chlorine and fluoride.
+>
+>"pilea" comes from Latin "pileus" meaning "felt cap"
+>
+>Native to sourthwest China and the West Indies
+
 
 
 </br>
@@ -69,9 +74,13 @@ Quarantine era 2020 - propagation from Shelby
 </br></br>
 
 #### :triumph:  &nbsp; Mature Height
-1 ft
+4-20 inches indoors
+
+The leaves can grow up to 4 inches long
 
 </br></br>
 
 #### :fire:  &nbsp; Temperature
 65-75 degrees
+
+fine as long as not below 50F

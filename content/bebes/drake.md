@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-*Dracena fragrans* | Dracaena, corn plant
+*Dracaena fragrans* | Massangeana, corn plant, happy plant, cornstalk
 <!--more-->
 
 > One of best plants for cleaning and purifying the air
@@ -15,6 +15,12 @@ weight = 1
 >Corn plants grow fairly slowly from one or more thick canes (stems) that produce long, narrow leaves (like those of corn) toward the top.
 >
 >Growth habit gives them a similar appearance to a palm tree, which is why they’re sometimes referred to as “false palms.”
+>
+> "Dracaena" is derived from the Greek word "drakaina" meaning "female dragon" = referring to the blood red sap that bleeds when the stem is cut
+>
+>"fragrans" alludes to the fragrant flowers that bloom (rare for it to bloom in cultivation)
+>
+>Native throughout tropical Africa
 
 </br>
 
@@ -27,7 +33,8 @@ Too little light will result in the leaves losing their color variegation and mi
 
 </br></br>
 
-#### :ocean:  &nbsp; WaterAllow to slightly dry between watering they do not like to be constantly wet
+#### :ocean:  &nbsp; Water
+Allow to slightly dry between watering they do not like to be constantly wet
 
 Overwatering → root rot
 

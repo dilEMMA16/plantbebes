@@ -7,10 +7,13 @@ draft = false
 weight = 1
 +++
 
-*Crassula ovata* | Jade
+*Crassula ovata* | Jade, lucky plant, friendship tree
 <!--more-->
 
 > Many know it as a houseplant, but in warm climates, it actually grows into a shrub.
+>
+>"Crassus" is Latin for "thick" (referring to the succulent leaves), "ovata" is derived from Latin for "egg-shaped"
+>
 
 </br>
 
