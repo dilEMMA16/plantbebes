@@ -1,8 +1,8 @@
 +++
-image = "img/portfolio/placeholder.jpg"
+image = "img/portfolio/armani.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
-title = "Dinero"
+title = "Armani"
 draft = false
 weight = 1
 +++

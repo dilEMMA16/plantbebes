@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/placeholder.jpg"
+image = "img/portfolio/climbingaloe.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "Hera"
@@ -15,7 +15,7 @@ weight = 1
 >To propagate with Aloe ciliaris stem cuttings
 > Cut stems below a node root.
 > cuttings should dry out for at least one day to > form a seal on the cut end.
-> Dip the cut ends in rooting hormone powder. 
+> Dip the cut ends in rooting hormone powder.
 This increases the chance of successful propagation.
 Place the cuttings in moist soil.
 Keep the soil moist until roots appear and then cut back on watering.

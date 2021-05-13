@@ -1,8 +1,8 @@
 +++
-image = "img/portfolio/jeremiah.jpg"
+image = "img/portfolio/usher.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
-title = "Jeremiah"
+title = "Usher"
 draft = false
 weight = 1
 +++
